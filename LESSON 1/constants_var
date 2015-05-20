@@ -1,0 +1,16 @@
+<?php
+
+	define("PI",3.1416);
+
+	echo PI;
+
+	//3ER PARAMETRO OPCIONAL 
+	//NO VA A SER SENSIBLE DE MINUSCULAS Y MAYUSCULAS
+
+	define ("SAY_HELLO", "Hello World",TRUE);		
+
+	echo SAY_HELLO;
+
+	
+
+?>

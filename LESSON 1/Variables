@@ -1,0 +1,17 @@
+Variables : 
+
+- Comienzan con $
+- Comienzan con letra
+- Solo letras y numeros
+- Sensibles a minusculas y mayusculas
+
+No es necesario que declaremos el tipo de variable. 
+Posee un convertidor de datos automatico. 
+
+
+Alcance de las variables: 
+
+-Local (se destruyen cuando termina la funcion) 
+-Global (valida para todo el programa), se definen afuera 
+y en la funcion se usan como global $a ,$b ;
+- Estaticas: dentro de una funcion pueda almacenar su valor y no se destruya cuando finalice;

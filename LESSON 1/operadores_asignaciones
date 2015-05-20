@@ -1,0 +1,26 @@
+Operadores Asignaciones: 
+
+x = y    
+x += y  =  x+y
+x -= y
+x *= y
+x /= y
+x %= y
+a .= b
+
+++x pre-incrementacion 
+x++ post-incremento
+
+x == y  (verifica que tenga el mismo valor)
+
+x === y (verifica que sean IDENTICOS, tipo y valor)
+
+x != y
+x !=== y
+
+Logical Operators:
+
+AND, OR, XOR, AND, OR, NOT
+
+OR : Permite que dos valores sean true al mismo tiempo
+XOR: no permite dos valores sean true al mismo tiempo
