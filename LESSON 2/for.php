@@ -1,5 +1,8 @@
 
 <?php
+
+// Estructura de repeticion for
+
 	echo "The sum of the first 10 number is: ";
 
 	$sum = 0 ;
