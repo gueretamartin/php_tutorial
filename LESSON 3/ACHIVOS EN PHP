@@ -1,0 +1,16 @@
+FILES - ARCHIVOS EN PHP
+
+$file = $fopen("myfile.txt", "r") or exit("No pudo abrir el archivo");
+
+if(feof("myfile.txt"){
+	echo "termino"
+}
+
+	r   	Lectura  				-
+	r+ 		Lectura y escritura 	-	
+	w		Solo escritura			-	
+	w+ 		Lectura escritura		-	Crea el archivo si no existe
+	a    	Lecutra
+	a+		LEctura escritura		- Concatena o soobrescribe el archivo y crea si no existe
+	x		escritura 				- Crea un nuevo , archivo, si ya existe retorna falso
+	x+		Lect y escritura        - "" 		""
